@@ -5,7 +5,7 @@ Specialties
 
 Low - Code Automation, Machine Learning, Software Developement, Business process modeling, Appian-SAIL, .NET,Python, SQL, BPM, and Agile experience.
 
-just finished a Python project that sends automate emails to users from local restuarants in Houston to start a reservation <https://github.com/cthomastl/Automated-Email-Sender2!--
+just finished a Python project that sends automate emails to users from local restuarants in Houston to start a reservation https://github.com/cthomastl/Automated-Email-Sender3
 
 - 🔭 I’m currently working on ... Machine Learning projects
 - 🌱 I’m currently learning ... Python
