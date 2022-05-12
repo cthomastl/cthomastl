@@ -6,7 +6,7 @@ I am a Software Engineer located in Houston, Texas.
  
 Specialties 
 
-Java, SQL
+Java, TypeScript, SQL, ReactJS, Springboot
 
 - 🔭 I’m currently working on ... Java personal projects
 - 🌱 I’m currently learning ... ReactJS
