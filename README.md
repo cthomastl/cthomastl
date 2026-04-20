@@ -48,7 +48,7 @@ Currently deepening expertise in Infrastructure as Code, CI/CD pipelines, and AW
 
 |Project                                                                 |Description                                        |Stack                   |
 |------------------------------------------------------------------------|---------------------------------------------------|------------------------|
-|[rig-guard]([https://github.com/cthomastl/jims-auto-service-ui](https://github.com/cthomastl/RigGuard))  |Full-stack service management app                  |React, Python,TypeScript SQL|
+|[Rig-Guard]([https://github.com/cthomastl/jims-auto-service-ui](https://github.com/cthomastl/RigGuard))  |Full-stack service management app                  |React, Python,TypeScript SQL|
 
 
 -----
