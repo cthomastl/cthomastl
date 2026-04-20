@@ -2,7 +2,7 @@
 
 # Chris Thomas
 
-### Cloud Engineer | AWS Certified | Oil & Gas Domain
+### Systems Engineer | AWS Certified | Oil & Gas Domain
 
 [![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
