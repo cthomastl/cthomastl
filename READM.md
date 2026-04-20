@@ -49,9 +49,7 @@ Currently deepening expertise in Infrastructure as Code, CI/CD pipelines, and AW
 |Project                                                                 |Description                                        |Stack                   |
 |------------------------------------------------------------------------|---------------------------------------------------|------------------------|
 |[jims-auto-service](https://github.com/cthomastl/jims-auto-service-ui)  |Full-stack service management app                  |React, Spring Boot, Java|
-|[realtimecrypto-api](https://github.com/cthomastl/realtimecrypto-api-ui)|Live crypto price dashboard via external API       |JavaScript              |
-|[crypto-buy-sniffer](https://github.com/cthomastl/crypto-buy-sniffer-ui)|Price alert system for crypto buy signals          |JavaScript              |
-|[word-file-upload](https://github.com/cthomastl/word-file-upload-ui)    |File upload service with decoupled frontend/backend|JavaScript, Java        |
+
 
 -----
 
