@@ -14,7 +14,7 @@
 
 ## About Me
 
-Cloud engineer transitioning from enterprise IT support into infrastructure and cloud architecture, with hands-on domain experience in the oil & gas industry. I hold a B.S. in Cloud Computing & Solutions from Purdue Global and an AWS Solutions Architect Associate certification, with a focus on building scalable, automated cloud infrastructure.
+System engineer transitioning from enterprise IT support into infrastructure and cloud architecture, with hands-on domain experience in the oil & gas industry. I hold a B.S. in Cloud Computing & Solutions from Purdue Global and an AWS Solutions Architect Associate certification, with a focus on building scalable, automated cloud infrastructure.
 
 Currently deepening expertise in Infrastructure as Code, CI/CD pipelines, and AWS-native architecture — with a long-term focus on OT/IT convergence and cloud solutions for energy sector environments.
 
@@ -71,6 +71,6 @@ Currently deepening expertise in Infrastructure as Code, CI/CD pipelines, and AW
 
 <div align="center">
 
-*Open to cloud engineering roles — particularly in energy, infrastructure, and OT/IT environments.*
+*Specialized in System Engineering/Cloud roles — particularly in energy, infrastructure, and OT/IT environments.*
 
 </div>
