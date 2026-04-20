@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chris Thomas
+# Christopher Thomas
 
 ### Systems Engineer | AWS Certified | Oil & Gas Domain
 
