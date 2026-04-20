@@ -48,7 +48,7 @@ Currently deepening expertise in Infrastructure as Code, CI/CD pipelines, and AW
 
 |Project                                                                 |Description                                        |Stack                   |
 |------------------------------------------------------------------------|---------------------------------------------------|------------------------|
-|[Rig-Guard](https://github.com/cthomastl/RigGuard)  |Full-stack service management app                  |React, Python,TypeScript SQL|
+|[Rig-Guard](https://github.com/cthomastl/RigGuard)  |Cloud Native Maintenance Platform                   |React, Python,TypeScript SQL|
 
 
 -----
@@ -56,7 +56,7 @@ Currently deepening expertise in Infrastructure as Code, CI/CD pipelines, and AW
 ## Certifications
 
 - **AWS Certified Solutions Architect – Associate** *(Active)*
-- **B.S. Cloud Computing & Solutions** — Purdue Global
+- **B.S. Cloud Computing & Solutions** — Purdue Global University
 
 -----
 
